@@ -4,7 +4,7 @@ from sklearn.ensemble import ExtraTreesClassifier
 
 
 def ordinal_encoder(input_val, feats):
-#   feat_val = list(1+np(len(feats)))
+
     feat_val = list(range(1, len(feats) + 1))
     feat_key=feats
     feat_dict = dict(zip(feat_key,feat_val))
