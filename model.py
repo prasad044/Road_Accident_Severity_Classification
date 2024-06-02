@@ -13,7 +13,7 @@ def ordinal_encoder(input_val, feats):
 
 
 def get_prediction(data):
-    model_path = r"F:\Road Traffic accident\model.sav"
+    model_path = "model.sav"
     model = joblib.load(model_path)
     return model.predict(data)
     
