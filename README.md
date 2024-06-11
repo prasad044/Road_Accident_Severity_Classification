@@ -1,5 +1,6 @@
 # Road_Accident_Severity_Classification
 ![image](https://cdn-images-1.medium.com/max/800/0*ipvJpQLmhlrch90Q.jpg)
+
 **📱This notebook includes the following:**
 
 1. Import Required Libraries
@@ -19,4 +20,4 @@ Road accidents are the major cause of unnatural deaths around the world. All gov
 
 ## Deployment Link
 
-[Deployment link: Road_Accident_Severity_Classification(https://roadaccidentseverityclassification-gkwffhfdfbcjgzqe442xa5.streamlit.app/) 
+[Deployment link: Road_Accident_Severity_Classification](https://roadaccidentseverityclassification-gkwffhfdfbcjgzqe442xa5.streamlit.app/) 
